@@ -1,6 +1,6 @@
 <p align="center">
     <!-- https://github.com/DenverCoder1/readme-typing-svg -->
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Exo+2&weight=24&size=23&pause=1000&width=435&lines=Welcome+To+My+Github+Profile+Page!)](https://git.io/typing-svg)
+    <img width="800" src="https://readme-typing-svg.demolab.com?font=LXGW+WenKai+TC&size=22&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;Welcome To My Github Page!" />
 </p>
 <p align="center">
     <!-- https://github.com/anuraghazra/github-readme-stats -->
