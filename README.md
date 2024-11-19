@@ -13,5 +13,5 @@
     <img width="800" src="https://github-profile-trophy.vercel.app/?username=sindresorhus&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" />
 </p>
 <p align="center">
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=linux,kali,arch,py,c,cs,cpp,java,php,lua,nodejs,html,js,css,react,latex,matlab,neovim,vscode,codepen,cloudflare&titles=true">
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,kali,arch,py,c,cs,cpp,java,php,lua,nodejs,html,js,css,react,latex,matlab,neovim,vscode,codepen,cloudflare&titles=true">
 </p>
