@@ -10,7 +10,7 @@
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=sindresorhus&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 </p>
 <p align="center">
-    <img width="800" src="https://github-profile-trophy.vercel.app/?username=sindresorhus&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" />
+    <img width="800" src="https://github-profile-trophy.vercel.app/?username=sindresorhus&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage,-Experience,-Commits,-Followers,-Stars" />
 </p>
 <p align="center">
     <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=windows,kali,py,c,cs,cpp,java,lua,nodejs,html,css,react,matlab,neovim,vscode&titles=true">
