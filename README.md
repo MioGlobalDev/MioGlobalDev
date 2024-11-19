@@ -17,6 +17,7 @@
 </p>
 <p align="center">
     <!-- https://github.com/badges/shields -->
-    <a href="https://github.com/MioGlobalDev"><img src="https://img.shields.io/badge/GitHub-MioGlobalDev-blue?logo=github" /></a>
-    <img src="https://komarev.com/ghpvc/?username=MioGlobalDev" />
+    <a href="https://github.com/MioGlobalDev"><img src="https://img.shields.io/badge/MioGlobalDev-black?logo=github" /></a>
+    <a href="https://x.com/nonoko_4649"><img src="https://img.shields.io/badge/nonoko_4649-black?logo=X" /></a>
+    <a href="https://x.com/nonoko_4649"><img src="https://img.shields.io/badge/miodev.us.kg-black?logo=bluesky" /></a>
 </p>
