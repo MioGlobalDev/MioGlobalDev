@@ -11,7 +11,7 @@
 </p>
 <p align="center">
     <!-- https://wakatime.com/share/embed -->
-    <img width="700" src="https://wakatime.com/share/@Xiaokang2022/9e225507-6273-4967-b1c9-409f043a94a5.svg" />
+    <img width="700" src="https://wakatime.com/share/@Starrick/9e225507-6273-4967-b1c9-409f043a94a5.svg" />
 </p>
 <p align="center">
     <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
