@@ -15,3 +15,8 @@
 <p align="center">
     <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=windows,kali,py,c,cs,cpp,java,lua,nodejs,html,css,react,matlab,neovim,vscode&titles=true">
 </p>
+<p align="center">
+    <!-- https://github.com/badges/shields -->
+    <a href="https://github.com/MioGlobalDev"><img src="https://img.shields.io/badge/GitHub-MioGlobalDev-blue?logo=github" /></a>
+    <img src="https://komarev.com/ghpvc/?username=MioGlobalDev" />
+</p>
