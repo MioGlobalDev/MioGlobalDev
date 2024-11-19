@@ -3,6 +3,7 @@
 </p>
 <p align="center">
     <img width="400" src="https://github-readme-stats.vercel.app/api?username=sindresorhus&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&count_private=true" />
+    <img src="https://komarev.com/ghpvc/?username={sindresorhus}&abbreviated=true" />
     <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
     <img width="400" src="https://streak-stats.demolab.com?user=sindresorhus&theme=transparent&hide_border=true" />
 </p>
