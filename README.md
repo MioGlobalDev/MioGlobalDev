@@ -10,5 +10,5 @@
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=sindresorhus&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 </p>
 <p align="center">
-    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=windows,linux,kali,py,c,cs,cpp,java,php,lua,nodejs,html,js,css,react,qt,git,dotnet,latex,matlab,neovim,vscode&titles=true">
+    <img width="800" src="https://go-skill-icons.vercel.app/api/icons?i=windows,kali,py,c,cs,cpp,java,lua,nodejs,html,css,react,latex,matlab,neovim,vscode&titles=true">
 </p>
